@@ -1,8 +1,8 @@
 Hi there 👋 I'm Brihan Sahoo
 
-🚀 Backend Developer | Flutter App Developer | Freelancer | Cyber Security Enthusiast
+🚀 Backend Developer | Flutter App Developer | Freelancer | Cyber Security Enthusiast | AI/ML Enthusiast
 
-🔭 I’m currently working on building super scalable,secure and high-performance backend systems
+🔭 I’m currently working on building super scalable,secure,ai based and high-performance backend systems
 
 🌱 I’m currently learning AI & Blockchain technologies for future-ready solutions
 
