@@ -28,7 +28,9 @@ Database & Cloud
 
 Kali Linux 
 
-System Security
+AI & Machine Learning
+
+System Security & Design
 
 
 👨‍💻 About Me
